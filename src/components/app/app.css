@@ -1,0 +1,12 @@
+.l-todo-app{
+    width: 100%;
+    margin: 0 auto;
+    max-width: 500px;
+}
+.done {
+    text-decoration: line-through;
+}
+.important{
+    color: steelblue;
+    font-weight: bold;
+}
